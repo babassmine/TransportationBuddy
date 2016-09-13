@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  direction: MyString
+  destination: MyString
+  lat: MyString
+  lon: MyString
+  offset: 1
+  offset: 1
+  vehicle_id: 1
+
+two:
+  direction: MyString
+  destination: MyString
+  lat: MyString
+  lon: MyString
+  offset: 1
+  offset: 1
+  vehicle_id: 1
